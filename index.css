@@ -130,7 +130,6 @@ h4 {
 
 .cards {
     margin-top: 80px;
-    border: 1px solid red;
     display: flex;
     justify-content: center;
     height: 550px;
@@ -138,7 +137,6 @@ h4 {
 
 .card {
     width: 17.5%;
-    border: 1px solid red;
     height: 400px;
 
 }
