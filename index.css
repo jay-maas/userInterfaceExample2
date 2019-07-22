@@ -44,3 +44,11 @@ border-spacing: 0;
     }
 
 /* Our Code goes here! */
+
+body {
+    width: 100%;
+}
+
+.nav-cta {
+    background-image: url('https://static1.squarespace.com/static/5757b0289f72667650cec40f/t/57ace8c703596e14a97afd24/1470949578370/?format=2500w')
+}
